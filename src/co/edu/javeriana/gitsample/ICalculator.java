@@ -6,5 +6,6 @@ public interface ICalculator {
 	public double multiply(double a, double b);
 	public double divide(double a, double b);
 	public double power(double base, double exp);
+	public double sqrt(double number);
 	public String about();
 }
