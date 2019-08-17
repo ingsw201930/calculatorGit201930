@@ -2,7 +2,7 @@ package co.edu.javeriana.gitsample;
 
 //class created by Adrián Esteban García Ardila
 
-public class CalculadoraAEGA implements ICalculator{
+public class CalculatorAEGA implements ICalculator{
 
 	@Override
 	public double add(double a, double b) {
