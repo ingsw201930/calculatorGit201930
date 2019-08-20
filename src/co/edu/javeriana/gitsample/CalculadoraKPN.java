@@ -1,29 +1,29 @@
 package co.edu.javeriana.gitsample;
 
-public class CalculadoraGAMH implements ICalculator {
+public class CalculadoraKPN implements ICalculator {
 
 	@Override
 	public double add(double a, double b) {
-		// TODO Auto-generated method stub
-		return 0;
+		double res = a + b;
+		return res;
 	}
 
 	@Override
 	public double substract(double a, double b) {
-		// TODO Auto-generated method stub
-		return 0;
+		double res = a - b;
+		return res;
 	}
 
 	@Override
 	public double multiply(double a, double b) {
-		// TODO Auto-generated method stub
-		return 0;
+		double res = a * b;
+		return res;
 	}
 
 	@Override
 	public double divide(double a, double b) {
-		// TODO Auto-generated method stub
-		return 0;
+		double res = a / b;
+		return res;
 	}
 
 	@Override
@@ -31,5 +31,7 @@ public class CalculadoraGAMH implements ICalculator {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+  
 
 }
