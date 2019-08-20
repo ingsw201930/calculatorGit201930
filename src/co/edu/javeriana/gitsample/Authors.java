@@ -11,6 +11,7 @@ public class Authors {
 	public static final String KPN = "Kevin Stid Peláez Nimisica";
 	public static final String ACMU="Andres Camilo Muñoz Usamá";
 	public static final String JDOH= "Juan Diego Osorio Hernández";
+	public static final String LFVQ= "Leyder Fabian Vera Quintero";
 	public static final String OA="Other author...";
 	public static final String SAA="Still another author...";
 	
